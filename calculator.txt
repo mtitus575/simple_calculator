@@ -1,0 +1,14 @@
+3. Simple Calculator
+   - Objectives: Build logic for arithmetic operations, handle user input, and update the UI in response to events.
+   - Practice: Functions, operators, event listeners, DOM updates.
+   - Features: Basic arithmetic, clear/reset, input validation.
+   - Checkpoints:
+     1. Build the calculator UI with buttons and display.
+     2. Add event listeners for button clicks.
+     3. Implement functions for each operation (+, -, *, /).
+     4. Display results and handle errors (e.g., divide by zero).
+     5. Add clear/reset functionality.
+     6. Style the calculator for clarity.
+   - Topics to cover before starting:
+     * Basics & Fundamentals
+     * Working with Data
